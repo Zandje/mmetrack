@@ -11,7 +11,7 @@ import (
 
 func main() {
 	number := 9999
-	vin := "WF0xxxxxx"
+	vin := "WF0TK3SS4MMA15378"
 
 	for number >= 0 {
 		numberString := fmt.Sprintf("%04d", number)
